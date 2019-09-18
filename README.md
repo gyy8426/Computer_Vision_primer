@@ -13,3 +13,5 @@
 增强学习教程包含在[增强学习](https://github.com/gyy8426/Computer_Vision_primer/blob/master/Stage_4-%E5%A2%9E%E5%BC%BA%E5%AD%A6%E4%B9%A0.md)下。
 ## 第五阶段: 元学习（Meta Learning）
 元学习教程包含在[元学习](https://github.com/gyy8426/Computer_Vision_primer/blob/master/Stage_5-%E5%85%83%E5%AD%A6%E4%B9%A0.md)下。
+
+除了上述课程之外，组内现有包含Image Retrieval, VQA, Image Captioning, Image Generation等方向。欢迎各位同学Fork，也可以将自己的方向上的论文以及学习工具PullRequest。
