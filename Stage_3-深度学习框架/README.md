@@ -2,6 +2,9 @@
 当下常见的深度学习库(框架)都是基于python的。如果有一定的C语言以及C++基础，python会较容易上手。在这里不列举编程的学习资料。
 
 当下较为流行的深度学习库包括 pytorch，tensorflow (结合自身方向至少掌握一种)。
+<div align="center">
+  <img src="https://github.com/gyy8426/Computer_Vision_primer/blob/master/Stage_3-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6/deeplearning_framework.jpg" width="500px" />
+</div>
 
 ## pytorch
 1、官网就包含很多资料。[英文](https://pytorch.org/) & [中文](https://pytorch-cn.readthedocs.io/zh/latest/) (中文不是很新。)
