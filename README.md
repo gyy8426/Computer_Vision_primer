@@ -1,5 +1,5 @@
 # 初级阶段
-计算机视觉入门。本项目包含一些基本的机器学习以及深度学的课程，仅供初学者参考。
+计算机视觉入门。本项目包含一些基本的机器学习以及深度学的课程，仅供实验室内初学者参考。
 首先，初学者应该对人工智能领域有个大体地认识。人工智能领域的整体脉络图如下：
 <div align="center">
   <img src="https://github.com/gyy8426/Computer_Vision_primer/blob/master/fig/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%84%89%E7%BB%9C.jpg" width="500px" />
