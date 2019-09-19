@@ -6,7 +6,7 @@
 </div>
 ## 第一阶段: 机器学习（Machine Learning）
 首先，初学者应具备基本的机器学习知识（如SVM, 概率图等）。
-基础的机器学习课程包含在[机器学习](https://github.com/gyy8426/Computer_Vision_primer/blob/master/Stage_1-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)下。
+基础的机器学习课程包含在[机器学习](https://github.com/gyy8426/Computer_Vision_primer/tree/master/Stage_1-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)下。
 ## 第二阶段: 深度学习（Deep Learning）
 组内基本上都是使用深度学习来解决计算机视觉中的问题。
 基础的机器学习课程包含在[深度学习](https://github.com/gyy8426/Computer_Vision_primer/blob/master/Stage_2-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0)下。
