@@ -20,3 +20,5 @@ https://zhuanlan.zhihu.com/p/25549497  是从DeepLearning大方向分的，不�
 ## 其他
 1、[论文脉络](https://github.com/gyy8426/Computer_Vision_primer/blob/master/Stage_2-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/Deep%20Learning%20Papers%20Reading%20Roadmap.jpg)
 
+2、[论文及代码](https://paperswithcode.com/area/computer-vision)
+
