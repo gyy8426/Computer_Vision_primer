@@ -4,6 +4,7 @@
 <div align="center">
   <img src="https://github.com/gyy8426/Computer_Vision_primer/blob/master/fig/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%84%89%E7%BB%9C.jpg" width="500px" />
 </div>
+
 ## 第一阶段: 机器学习（Machine Learning）
 首先，初学者应具备基本的机器学习知识（如SVM, 概率图等）。
 基础的机器学习课程包含在[机器学习](https://github.com/gyy8426/Computer_Vision_primer/tree/master/Stage_1-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)下。
