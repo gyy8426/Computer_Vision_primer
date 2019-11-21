@@ -23,3 +23,6 @@
 元学习教程包含在[元学习](https://github.com/gyy8426/Computer_Vision_primer/blob/master/Stage_5-%E5%85%83%E5%AD%A6%E4%B9%A0)下。
 #
 除了上述课程之外，组内现有包含Image Retrieval, VQA, Image Captioning, Image Generation，[Video Object Segmentation](https://github.com/du0915/Video-Object-Segmentation-Paper-List)等方向。欢迎各位同学Fork，也可以将自己的方向上的论文以及学习工具PullRequest。
+
+#
+注：本库只作为内部教学使用，并不用作商业用途。如有侵权，立即删除。
