@@ -26,6 +26,8 @@
 
 # 
 [学术论文写作](https://www.coursera.org/learn/sciwrite)
+#
+[GPU以及服务器使用介绍](https://github.com/cfm-uestc/Tutorial-for-Computer-Vision)
 
 #
 注：本库只作为内部教学使用，并不用作商业用途。如有侵权，立即删除。
